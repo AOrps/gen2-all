@@ -1,13 +1,6 @@
-# Repo-Name
-- Description
+# gen2-all
+- Building gentoo on different stuff and configs
 
-## :mag: Manual
-
-```txt
-
-```
-
-## :hammer: How to Build
 
 ## :alembic: Usage
 
@@ -24,7 +17,8 @@
 └───dir2        ; ---
 ```
 
-## :warning: Disclaimer
+## :books: Resources
+- - [Gentoo Linux amd64 Handbook: Installing Gentoo](https://wiki.gentoo.org/wiki/Handbook:AMD64/Full/Installation/nl#Booting)
 
 --- 
 
